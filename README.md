@@ -1,12 +1,12 @@
-# 🛠 SwagLabs Login Page Test Cases  
+#  SwagLabs Login Page Test Cases  
 
-## 📌 Project Overview  
+##  Project Overview  
 This project contains *manual test cases* for the *SwagLabs (SauceDemo) login page*.  
 The goal is to validate the *login functionality, usability, error handling, and security checks* of the application through structured manual testing.  
 
 ---
 
-## 🎯 Objectives  
+## Objectives  
 - Ensure login works with valid credentials.  
 - Verify error messages for invalid/blank inputs.  
 - Validate UI elements like input fields, buttons, and placeholders.  
